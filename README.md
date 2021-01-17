@@ -1,8 +1,10 @@
-### Hi there 👋
+### Hello there 👋
 
-I am full stack dev looking to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. 
-If you found value in something I have created, please feel free to give me a shout out [@putroandrianto](https://twitter.com/putroandrianto/) or give some ♥ on [mail](mailto:singh_kshitij@yahoo.com). Feel free to reach out in case you want to just get in touch also.
+Welcome to my Github profile.
+I am a tech-savvy person who focuses on network and system administrators, and also a full-stack web developer. sometimes still working on artificial intelligence projects. in computer networking projects I am familiar with the tools from MikroTik and have passed MTCNA and MTCRE certifications, but Cisco is my favorite. in terms of system administrator i am dabbling with debian linux systems. I am very fond of learning new things, and sharing what I know with people in need, sharing is very beautiful.
+Thanks for visiting my Github profile. I hope you are happy and enjoy it. Greetings from me "JANCOK".
 
+If you found value in something I have created, please feel free to give me a shout out [@putroandrianto](https://twitter.com/putroandrianto/) or give some ♥ on [mail](mailto:andri.c.putro@gmail.com). Feel free to reach out in case you want to just get in touch also.
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/putroandrianto/"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
