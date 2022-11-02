@@ -1,7 +1,7 @@
 ### Hej, 👋
 
 Welcome to my Github profile.
-I am a tech-savvy individual who specializes in <b>Software Engineer<b>. I enjoy learning new things and sharing my knowledge with those in need; sharing is very beautiful.
+I am a tech-savvy individual who specializes in <b>Software Engineer</b>. I enjoy learning new things and sharing my knowledge with those in need, sharing is very beautiful.
 Thank you for visiting my Github page. I hope you have a good time.
 
 If you found value in something I have created, please feel free to give me a shout out [@putroandrianto](https://twitter.com/putroandrianto/) or give some ♥ on [mail](mailto:andri.c.putro@gmail.com). Feel free to reach out in case you want to just get in touch also.
