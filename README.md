@@ -17,6 +17,6 @@ If you found value in something I have created, please feel free to give me a sh
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=putroandrianto&layout=compact&hide_border=true)
 
 
-[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=62816663942&text=Hi%20Andrianto Putro)
+[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=62816663942&text=Hi%20Andrianto%20Putro)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/putroandrianto/)
-[![Instagram Badge]([https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/agi.dinata/](https://www.instagram.com/putroandrianto/))
+[![Instagram Badge]([https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/agi.dinata/](https://www.instagram.com/putroandrianto/)
